@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class: Procedural Programming (CSCI 235)**  
 -   **Grade: 95**
 
-### [How Much Testing is Enough?](/pdf/How Much Testing is Enough.pdf)
+### [How Much Testing is Enough?](/pdf/How Much Testing is Enough?.pdf)
 
 -   **Class: Data Structures Analysis (CSCI 315)** 
 -   **Grade: 90**
