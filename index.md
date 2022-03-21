@@ -4,20 +4,20 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [HTML Parser | CSCI 315](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Minimal Overlap Coverage | CSCI 315](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Text-Based Adventure Game | CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,35 +31,35 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Good Hacker](/pdf/The Good Hacker.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Procedural Programming (CSCI 235)**  
+-   **Grade: 95**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [How Much Testing is Enough?](/pdf/How Much Testing is Enough.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Data Structures Analysis (CSCI 315)** 
+-   **Grade: 90**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Dilemmas](/pdf/Ethical Dilemma.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Object-Oriented Programming (CSCI 325)** 
+-   **Grade: 100**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Keylogging - XSS](/pdf/Keylogging-XSS.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Survey of Scripting Languages (CSCI 301)** 
+- **Grade: 100**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class: Principles of Cybersecurity (CSCI 405)** 
 - **Grade:**
 
 ---
