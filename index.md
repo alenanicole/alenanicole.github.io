@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Minimal Overlap Coverage | CSCI 315](project1)
+### [Minimal Overlap Coverage | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Text-Based Adventure Game | CSCI 325](project1)
+### [Text-Based Adventure Game | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [UDP File Transfer | CSCI 332](project1)
+### [UDP File Transfer | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
