@@ -41,9 +41,9 @@ Ethics Papers
 -   **Class: Data Structures Analysis (CSCI 315)** 
 -   **Grade: 90**
 
-### [Ethical Dilemmas](/pdf/Ethical Dilemma.pdf)
+### [Cyber Espionage](/pdf/Cyber Espionage - Durel.pdf)
 
--   **Class: Object-Oriented Programming (CSCI 325)** 
+-   **Class: Principles of Cybersecurity (CSCI 405)** 
 -   **Grade: 100**
 
 ---
@@ -57,9 +57,9 @@ Presentations
 - **Grade: 100**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Rootkits](/pdf/Rootkits.pdf)
 
-- **Class: Principles of Cybersecurity (CSCI 405)** 
+- **Class: Computer Architecture (CSCI 330)** 
 - **Grade:**
 
 ---
