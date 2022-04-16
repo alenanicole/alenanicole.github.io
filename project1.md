@@ -17,19 +17,19 @@ This project is an HTML Parser that completed two tasks for each HTML Page passe
 
 First, please download and extract the 'HTML Parser.zip' file from the Source Code folder. Once you have navigated to the correct directory in your terminal, this project can easily be compiled and ran using a simple make command.
 
-```bash
+```
 make all
 ```
 If you would like to run the program with specific pages, please use:
 
-```bash
+```
 make run
-html-test pages/*insert file name* pages/*insert file name*
+html-test pages/example_filename pages/example_filename
 ```
 This method can be used to run the program with any number of pages available to the user. These pages currently include index.html, double.html, pokemon.html, notbalanced.html, and theend.html, however, the user can add more to test.
 
 To remove the executable please use:
-```bash
+```
 make clean
 ```
 ## UI Design
