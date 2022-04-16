@@ -24,7 +24,7 @@ If you would like to run the program with specific pages, please use:
 
 ```
 make run
-html-test pages/example_filename pages/example_filename
+./html-test pages/example_filename pages/example_filename
 ```
 This method can be used to run the program with any number of pages available to the user. These pages currently include index.html, double.html, pokemon.html, notbalanced.html, and theend.html, however, the user can add more to test.
 
