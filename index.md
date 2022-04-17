@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [HTML Parser | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/not_balanced.png)
 
 ---
 ### [Minimal Overlap Coverage | CSCI 315](project2)
