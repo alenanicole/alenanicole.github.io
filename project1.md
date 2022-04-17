@@ -38,13 +38,13 @@ This program will parse the HTML files passed to it and will determine if they a
 
 **NOTE:** This program was made with the intention to parse HTML files that do not contain '<', '>', or '=' symbols anywhere in the file besides HTML tags.
 
-![screenshot](images/test_all.png)  
+![screenshot](images/test-all.png)  
 Fig 1. Testing All Pages
 
 ![screenshot](images/test_two.png)  
 Fig 2. Testing Only Two Pages
 
-![screenshot](images/test_error.jpg)  
+![screenshot](images/test_error.png)  
 Fig 3. Testing With a File that Doesn't Exist
 
 ## 3. Additional Considerations
