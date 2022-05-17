@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+UDP File Transfer
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: Applied Networking (CSCI 332)** 
+-   **Grade: 100** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [alenanicole/UDP-File-Transfer](https://github.com/alenanicole/UDP-File-Transfer)  
+    (Please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was created to tansfer a file between two computers on the same network using a User Datagram Protocol (UDP) based server and client model. It first creates a connection between a computer running the server program and another computer running the client program. Then, the client will choose which file to send to the server and, if the file exists, will deconstruct the file into packets of 1000 bytes to be sent to the server and reconstructed. This program will work for various file types inclding .jpg, .png, and .txt. This program was coded in C++.
 
 ## How to compile and run the program
 
@@ -42,7 +42,5 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
