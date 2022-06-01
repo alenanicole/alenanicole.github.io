@@ -60,7 +60,7 @@ Presentations
 ### [Rootkits](/pdf/Rootkits.pdf)
 
 - **Class: Computer Architecture (CSCI 330)** 
-- **Grade:**
+- **Grade: 100**
 
 ---
 
