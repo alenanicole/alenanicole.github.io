@@ -15,14 +15,26 @@ This project was created to tansfer a file between two computers on the same net
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+This project is meant to showcase the transfer of a file between two computers; however, it can also be demonstrated utilizing multiple terminals on the same device. 
 
+If using one device, please download the server.cpp, client.cpp, and makefile files from the provided Github repository. Although there is also a test.jpg file provided to test the program, any file can be used. 
+
+If testing with two computers, please identify which computer will act as the server and which will act as the client and download the appropriate .cpp file and the makefile.
+
+To run the server side please use:
 ```bash
-cd ./project
-python setup.py
+make server
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+To run the client side please use:
+```bash
+make client
+```
+
+To remove the executable please use:
+```bash
+make clean
+```
 
 ## UI Design
 
