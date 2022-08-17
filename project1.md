@@ -112,7 +112,8 @@ This project can be run with all of the pages contained in the 'pages' folder (S
 ```
 **'double.html' is balanced. This page can visit multiple links through the various webpages it links to, including itself. However, the unique number of pages that is 4, as each page is only counted once.**
 <br> <br>
-********
+
+*********
 
 This project can be run with any number of the pages provided (See Fig. 2). Passing in 'index.html' and 'theend.html', the program will determine that both of these files are balanced, and that neither can currently visit any pages. The 'theend.html' file does not contain any links, therefore it cannot visit any pages, however, the 'index.html' file does have a link. Even though 'index.html' links to another page, this file was not passed into the program, and therefore cannot be visited.
 
