@@ -11,13 +11,13 @@ UDP File Transfer
 
 ## Project description
 
-This project was created to tansfer a file between two computers on the same network using a User Datagram Protocol (UDP) based server and client model. It first creates a connection between a computer running the server program and another computer running the client program. Then, the client will choose which file to send to the server and, if the file exists, will deconstruct the file into packets of 1000 bytes to be sent to the server and reconstructed. This program will work for various file types inclding .jpg, .png, and .txt. This program was coded in C++.
+This project was created to tansfer a file between two computers on the same network using a User Datagram Protocol (UDP) based server and client model. It first creates a connection between a computer running the server program and another computer running the client program. Then, the client will choose which file to send to the server and, if the file exists, will deconstruct the file into packets of 1000 bytes to be sent to the server and reconstructed. This program will work for various file types inclding .jpg, .png, and .txt. This project was coded in C++.
 
 ## How to compile and run the program
 
 This project is meant to showcase the transfer of a file between two computers; however, it can also be demonstrated utilizing multiple terminals on the same device. 
 
-If using one device, please download the server.cpp, client.cpp, and makefile files from the provided Github repository. Although there is also a test.jpg file provided to test the program, any file can be used. 
+If using one device, please download the server.cpp, client.cpp, and makefile files from the provided Github repository. Although there is a test.jpg file provided to test the program, any file can be used. 
 
 If testing with two computers, please identify which computer will act as the server and which will act as the client and download the appropriate .cpp file and the makefile.
 
@@ -40,14 +40,17 @@ make clean
 
 This program can be used to transfer data between two computers with one acting as the server and the other one acting as the client. This program contains little user interaction, only requiring the user to choose a port, input the IP address of the server, and designate which file is being sent. The program will then determine if the connection between the server and the client has been made and send the file to the client.
 
-![screenshot](images/make_sever.png)  
-Fig 1. Setting up the server
+![screenshot](/images/make_sever.png)  
+**Fig 1. Setting up the server**
 
-![screenshot](images/make_client.png)  
-Fig 2. Setting up the client
+![screenshot](/images/make_client.png)  
+**Fig 2. Setting up the client**
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](/images/dummy_thumbnail.jpg)  
+**Fig 3. Feedback when an error occurs.**
+
+![screenshot](/images/dummy_thumbnail.jpg)
+**Fig 4. The transfer is complete and a copy of file exists on the client-side machine**
 
 ## 3. Additional Considerations
 
