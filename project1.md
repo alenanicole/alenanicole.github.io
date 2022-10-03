@@ -56,7 +56,7 @@ This project can be run with all of the pages contained in the 'pages' folder (S
     </b>
 </html>
 ```
-**'notbalanced.html' is, as the name suggests, not balanced. Therfore, it cannot visit any webpages even though it contains a link to 'index.html'**
+**'notbalanced.html' is, as the name suggests, not balanced. Therefore, it cannot visit any webpages even though it contains a link to 'index.html'.**
 <br> <br>
 ```html
 // theend.html
@@ -68,7 +68,7 @@ This project can be run with all of the pages contained in the 'pages' folder (S
     </body>
 </html>
 ```
-**'theend.html' is balanced. However, it contains no links and contain visit any webpages**
+**'theend.html' is balanced. However, it contains no links and contain visit any webpages.**
 <br> <br>
 ```html
 // pokemon.html
@@ -105,7 +105,7 @@ This project can be run with all of the pages contained in the 'pages' folder (S
         </b>
 		<a href=pages/double.html></a>
 		<a href=pages/index.html></a>
-        <a href=pages/pokemon.html></a>
+        	<a href=pages/pokemon.html></a>
 		<a href=pages/theend.html></a>
     </body>
 </html>
