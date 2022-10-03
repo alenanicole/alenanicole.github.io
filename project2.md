@@ -6,12 +6,12 @@ Minimal Overlap Coverage
 -   **Class: Data Structures Analysis (CSCI 315)** 
 -   **Grade: 90** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [alenanicole/Minimal-Overlap-Coverage]([https://github.com/alenanicole/Minimal-Overlap-Coverage])  
     (Please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is used to find the minimal overlap needed to complete a query request. A file containing multiple groups, where each group will contain a set of unique numbers, is passed into the program. Each query will consist of a set of numbers, that do not need to be unique. When a group is used in the cover, each element in that group must be counted. For example, if one of the groups is {1, 2, 4, 5} all four elements must be counted and it is not possible to just count {2, 5} if that is all you need. The goal of this project is to determine the minimal number of elements needed to cover the query. If there is no possible overlap, the program will return -1, otherwise it will return the minimum number of elements to cover the query. This project was coded in C++.
 
 ## How to compile and run the program
 
@@ -42,7 +42,5 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
