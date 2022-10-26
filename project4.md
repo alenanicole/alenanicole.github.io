@@ -40,16 +40,17 @@ make clean
 
 This program can be used to transfer data between two computers with one acting as the server and the other one acting as the client. This program contains little user interaction, only requiring the user to choose a port, input the IP address of the server, and designate which file is being sent. The program will then determine if the connection between the server and the client has been made and send the file to the client.
 
-![screenshot](/images/make_sever.png)  
+![screenshot](/images/make_server.png)  
 **Fig 1. Setting up the server**
 
 ![screenshot](/images/make_client.png)  
 **Fig 2. Setting up the client**
 
-![screenshot](/images/dummy_thumbnail.jpg)  
+![screenshot](/images/error.png)  
 **Fig 3. Feedback when an error occurs.**
 
-![screenshot](/images/dummy_thumbnail.jpg)
+https://drive.google.com/file/d/1h9QW_wYiOH6OVJPA_J-G5pQ8XWxGfN9o/view?usp=sharing 
+
 **Fig 4. The transfer is complete and a copy of file exists on the client-side machine**
 
 ## 3. Additional Considerations
