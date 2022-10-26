@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Minimal Overlap Coverage | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/overlap.png)
 
 ---
 ### [Text-Based Adventure Game | CSCI 325](project3)
