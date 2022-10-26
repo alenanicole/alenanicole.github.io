@@ -57,13 +57,13 @@ This program can also be run with queries different than the ones provided in th
 
 This program will parse the data file passed to it and will determined the minimum number of elements needed to cover each query passed in. The user can run any of the tests predefined in the makefile, or can create their own tests. This project requires little human interaction besides passing arguments into the program when it is first run. From there, the program will run on its own, finding the solution to each query.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-**Fig 1. Running the program on the simple.set**
+![screenshot](images/simple-test.png)  
+**Fig 1. Running the program on simple.set**
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/no-solution.png)  
 **Fig 2. No solution could be found for a query**
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/invalid-file.png)  
 **Fig 3. Testing invalid file**
 
 ## Additional Considerations
