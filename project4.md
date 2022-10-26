@@ -38,7 +38,7 @@ make clean
 
 ## UI Design
 
-This program can be used to transfer data between two computers with one acting as the server and the other one acting as the client. This program contains little user interaction, only requiring the user to choose a port, input the IP address of the server, and designate which file is being sent. The program will then determine if the connection between the server and the client has been made and send the file to the client.
+This program can be used to transfer data between two computers with one acting as the server and the other one acting as the client. This program contains little user interaction, only requiring the user to choose a port, input the IP address of the server, and designate which file is being sent. The program will then determine if the connection between the server and the client has been made and send the file to the server.
 
 ![screenshot](/images/make_server.png)  
 **Fig 1. Setting up the server**
@@ -49,9 +49,11 @@ This program can be used to transfer data between two computers with one acting 
 ![screenshot](/images/error.png)  
 **Fig 3. Feedback when an error occurs.**
 
-https://drive.google.com/file/d/1h9QW_wYiOH6OVJPA_J-G5pQ8XWxGfN9o/view?usp=sharing 
+![screenshot](/images/dummy.jpg)
+**Fig 4. The file is sent to the server, and appear on the server-side device**
 
-**Fig 4. The transfer is complete and a copy of file exists on the client-side machine**
+## Demo
+[![File Transfer Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1666808822/video_to_markdown/images/youtube--2DGleVhrsKw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2DGleVhrsKw "File Transfer Demo")
 
 ## 3. Additional Considerations
 
