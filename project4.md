@@ -11,7 +11,7 @@ UDP File Transfer
 
 ## Project description
 
-This project was created to tansfer a file between two computers on the same network using a User Datagram Protocol (UDP) based server and client model. It first creates a connection between a computer running the server program and another computer running the client program. Then, the client will choose which file to send to the server and, if the file exists, will deconstruct the file into packets of 1000 bytes to be sent to the server and reconstructed. This program will work for various file types inclding .jpg, .png, and .txt. This project was coded in C++.
+This project was created to transfer a file between two computers on the same network using a User Datagram Protocol (UDP) based server and client model. It first creates a connection between a computer running the server program and another computer running the client program. Then, the client will choose which file to send to the server and, if the file exists, will deconstruct the file into packets of 1000 bytes to be sent to the server and reconstructed. This program will work for various file types including .jpg, .png, and .txt. This project was coded in C++.
 
 ## How to compile and run the program
 
