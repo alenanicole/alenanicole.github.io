@@ -17,7 +17,7 @@ Castle of Conquest is a text-based adventure game where a player traverses throu
 
 Step 1: Install the Netbeans IDE.
 
-Step 2: Clone all files from the Github repository into a folder.
+Step 2: Downlod the .zip file from the Github repository.
 
 Step 3: Launch the Netbeans IDE and select “Open Project”.
 
