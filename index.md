@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Text-Based Adventure Game | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/game_background.png)
 
 ---
 ### [UDP File Transfer | CSCI 332](project4)
