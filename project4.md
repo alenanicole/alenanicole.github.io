@@ -49,8 +49,14 @@ This program can be used to transfer data between two computers with one acting 
 ![screenshot](/images/error.png)  
 **Fig 3. Feedback when an error occurs.**
 
-![screenshot](/images/dummy.jpg)
-**Fig 4. The file is sent to the server, and appear on the server-side device**
+![screenshot](/images/transfer_complete.png)
+**Fig 4. The file is sent to the server, and the tranfer is completed successfully**
+
+**Note: The server-side is on the left and the client-side on right**
+
+![screenshot](/images/transferred_image.png)
+
+**Fig 5. The file is sent to the server, and appears on the server-side device**
 
 ## Demo
 [![File Transfer Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1666808822/video_to_markdown/images/youtube--2DGleVhrsKw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2DGleVhrsKw "File Transfer Demo")
