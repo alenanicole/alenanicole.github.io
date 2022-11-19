@@ -6,7 +6,7 @@ Text-Based Adventure Game
 -   **Class: Object-Oriented Programming (CSCI 325)** 
 -   **Grade: 100** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [alenanicole/Castle-Of-Conquest]([https://github.com/alenanicole/Castle-Of-Conquest])  
+-   **Source Code Repository:** [alenanicole/Castle-Of-Conquest](https://github.com/alenanicole/Castle-Of-Conquest)  
     (Please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
