@@ -3,7 +3,7 @@
 Castle of Conquest Recode
 ===============
 -   **Language(s): Java** 
--   **Source Code Repository:** [alenanicole/CoC-Recode]([https://github.com/alenanicole/CoC-Recode])  
+-   **Source Code Repository:** [alenanicole/CoC-Recode](https://github.com/alenanicole/CoC-Recode)  
     (Please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
