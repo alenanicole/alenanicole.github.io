@@ -6,7 +6,7 @@ Minimal Overlap Coverage
 -   **Class: Data Structures Analysis (CSCI 315)** 
 -   **Grade: 90** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [alenanicole/Minimal-Overlap-Coverage]([https://github.com/alenanicole/Minimal-Overlap-Coverage])  
+-   **Source Code Repository:** [alenanicole/Minimal-Overlap-Coverage](https://github.com/alenanicole/Minimal-Overlap-Coverage)  
     (Please [email me](mailto:andurel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
